@@ -23,7 +23,7 @@ The dataset used in this project is GTZAN genre collection dataset which consist
 - jazz
 - reggae
 
-The dataset can be found on Kaggle and downloaded here.
+The dataset can be found on Kaggle and downloaded [here](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification).
 
 Sound waves are digitized by sampling them at discrete intervals known as the sampling rate (typically 44.1kHz for CD-quality audio meaning samples are taken 44,100 times per second). The more sound data (samples) gathered per period of time, the closer to the original analog sound the captured data becomes.
 
